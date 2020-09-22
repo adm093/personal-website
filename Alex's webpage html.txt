@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Alex McArthur</title>
+</head>
+<body translate="no">
+  <div id="page-wrapper">
+    <header id="header">
+      <div class="logo">
+   <img id="header-img" 
+        src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-8/13559210_1092657477473247_1929442743426858839_o.jpg?_nc_cat=106&_nc_sid=09cbfe&_nc_ohc=2NUA9nCTlPUAX9VEF9h&_nc_ht=scontent.fapa1-1.fna&oh=35095fe78a70b41bf1b1e3d718ac3ce1&oe=5F87770D" 
+        alt="McArthur Lighting" 
+        width="100px" 
+        height="75px">
+      </div>
+  <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link">Portfolio</a></li>
+        <li><a class="nav-link">How It Works</a></li>
+        <li><a class="nav-link">Pricing</a></li>
+      </ul>
+    </nav>
